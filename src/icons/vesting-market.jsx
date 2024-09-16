@@ -1,0 +1,13 @@
+export const VestingMarket = () => {
+  return <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="34" height="34" fill="url(#pattern0_1_994)" fillOpacity="0.5" />
+    <defs>
+      <pattern id="pattern0_1_994" patternContentUnits="objectBoundingBox" width="1" height="1">
+        <use href="#image0_1_994" transform="scale(0.0113636)" />
+      </pattern>
+      <image id="image0_1_994" width="88" height="88" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAABYCAYAAABxlTA0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAVjSURBVHgB7ZyNdds4DIDhezdANzjdBHUniG6CZoP4Jmg6QdwJmk5gZ4KkE1idoOkEUSdIOgEKlFRMUT8WKYqiEnzv8UmWbYqESBAEQQEIgiAIgiAIgiAIgmCwgoRBxDd0OKOUU8oovdFfPVEqKRWUvq1WqydYKrqSse95RumW0iMOY0fpH1gSVOAPVgUnrwQ/TEqf0Z9daoJuVRFUyCs6bFu+Kim9m6JL0j0zOhxAqYK2+96DUg0M96p1z29zKuNPSBGu6IlWcgWBoTzfYlMd8OcrSnnP/9a61WLLf99CiqBSDSbnlL4bnx8gIPqBPlj3PLh0dZ3HoUXI6ellS8B/Cmm1ktACfrAE8xk80S2+9qAgNVCN4H3sIBCU10Uo4Rp57qw8P0BqYLO7mQTrdlbr5fPRJiEqS8TM9xFnMDV70YXcWYLlQucQiJbWewGBwGYvDJZ3UFANHjzIrSEwqCYSzw8PAoP1gTk9XTw1WDfLRuvelvyvTDUBAdF5H/RDvMXUrBVU9qtJDoGhPN9b9wgiBKtnmKQzmLboyOAtAJsTphxGgs05gknrYPoXCC5sjPOS0t74zMJtDKYiYDfMFnpH/o7/4egfsb//Q6+A8eg2DD4ILZTSOL9EZf2YQr0HF7BusL+HQOBydfBZjw5uNTVPqYjMOE9rNjQDpBK+QbcbN2/7z98gOEFC/kSt9YZOuUdzo2O/812Xjzy6gLUpk1mXr+l6aCe+3eN4ba+AAJAwSzp8gbFYOmb0fB6V/2HoOtsUPGBkv0Q0Mw3VSsge5tXlGZcBJ1iV6SKKiqAKcffcWpdLqJs9U5JBXS1tqUyFHrTmw+pe3l0Lm/P36O5DbE5zR3nYUJls7O/w75FYt4NvwQNs2qOzOUWwuaTkZX9bdep9UKsTGfEM7tK4VIJ7t66W2CuyuZbUdWszXZfnVJav4Ajls6HD89IZ5eEXIaWfVNBRH2bGKo6XqmIBD61TrxWh7b0c4g1GL46TVgQJ+Qcd/tVPm7u6q1LPoGMaKQTApTtFKk8IFbEz8uhdT3ztvgh++Dm4kUG9RxZ9P37tAs5hHOw/2fb9QFY0/ClhQBTnYlowqul2ZZOze/AGxlOAn4XEKxc3SUTWhxjksBkFxHjNCEMMci4sRUVcDryWHEsR8GKXq5Yi4LuWawUsgCCDHConSlfIfohQ/k+g7M9z/bmg9BFeOtgeut8LjABVWO0odRF7kPNuwdi/K2gSlrjhcIwO5nWtDIRevBzF2HRc8yDUpRM5fuD6+Ya+zulAWGrqCeqxZSYlpX2gCY0b2AwhWvf8NmVv2hBGbfoJZaYFjSBPDG4g3sv8r92bxqqtKyJyA8cxhiMpv/gMsrOETiVkDey7Fj2pnAUcJzNVuJdbeCrEmcnZhZptDzEqj5zJr56f225IL/t7cgFTCzF3yTMc6Bd9V462fPbGpZLKVsDExFIRbKZt9TlbHAVVmK/FUhUZ1HUqs4dUQccIdT3F/Y7pcHLjI04QIT8YrO8HHhRShR5+i4k44EAVhcfyBt+JOghU/gjX/1zogseME37U93TeZ+JTR0EQhIH4etN4srABZXyXoGZEab7lyRNUdnMVj8fm5HWUOmL7hmgeRNJ86YUH2L1ZZ9q9Hahev9U3Ui929bcCT8dEn7nk5zpVtmMRCuO86lJLp9pgWGH7UjbggKuAM+Ocw5f+swqwhuVj1uGe6vgO6tPqDBxw9UWUxnmOytu/7vh+qZj+EX4zC89U847vw4Kn36mW1rtrPDgxzjDTqkFsboWqiLZ7cmqw+9UxznX0tYP5KXKUTWUH38TwrcYElQ+iCk0o4QXWURAEQRAEQRAEQRBm4Ddbt+LUUWlPZgAAAABJRU5ErkJggg==" />
+    </defs>
+  </svg>
+
+
+} 
